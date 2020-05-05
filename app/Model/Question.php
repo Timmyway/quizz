@@ -2,8 +2,6 @@
 
 namespace App\Model;
 use App\User;
-use App\Reply;
-use App\Category;
 
 use Illuminate\Database\Eloquent\Model;
 
